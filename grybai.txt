@@ -1,0 +1,6 @@
+5
+Pirmadienis 69 96 102
+Antradienis 2 6 54
+Treciadienis 15 24 3
+Ketvirtadienis 45 52 35
+Penktadienis 4 5 4
